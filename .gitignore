@@ -1,2 +1,2 @@
-# Ignore virtual environment directories (if using Python venv or similar)
-venv/
+# Ignore virtual environment directories 
+.venv/
